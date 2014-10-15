@@ -1,0 +1,895 @@
+fileFormatVersion: 2
+guid: 0c61560f97dcebf4591a3a8fcd37c3d8
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sheet Sprites
+    21300002: Sheet Sprites_0
+    21300004: Sheet Sprites_1
+    21300006: Sheet Sprites_2
+    21300008: Sheet Sprites_3
+    21300010: Sheet Sprites_4
+    21300012: Sheet Sprites_5
+    21300014: Sheet Sprites_6
+    21300016: Sheet Sprites_7
+    21300018: Sheet Sprites_8
+    21300020: Sheet Sprites_9
+    21300022: Sheet Sprites_10
+    21300024: Sheet Sprites_11
+    21300026: Sheet Sprites_12
+    21300028: Sheet Sprites_13
+    21300030: Sheet Sprites_14
+    21300032: Sheet Sprites_15
+    21300034: Sheet Sprites_16
+    21300036: Sheet Sprites_17
+    21300038: Sheet Sprites_18
+    21300040: Sheet Sprites_19
+    21300042: Sheet Sprites_20
+    21300044: Sheet Sprites_21
+    21300046: Sheet Sprites_22
+    21300048: Sheet Sprites_23
+    21300050: Sheet Sprites_24
+    21300052: Sheet Sprites_25
+    21300054: Sheet Sprites_26
+    21300056: Sheet Sprites_27
+    21300058: Sheet Sprites_28
+    21300060: Sheet Sprites_29
+    21300062: Sheet Sprites_30
+    21300064: Sheet Sprites_31
+    21300066: Sheet Sprites_32
+    21300068: Sheet Sprites_33
+    21300070: Sheet Sprites_34
+    21300072: Sheet Sprites_35
+    21300074: Sheet Sprites_36
+    21300076: Sheet Sprites_37
+    21300078: Sheet Sprites_38
+    21300080: Sheet Sprites_39
+    21300082: Sheet Sprites_40
+    21300084: Sheet Sprites_41
+    21300086: Sheet Sprites_42
+    21300088: Sheet Sprites_43
+    21300090: Sheet Sprites_44
+    21300092: Sheet Sprites_45
+    21300094: Sheet Sprites_46
+    21300096: Sheet Sprites_47
+    21300098: Sheet Sprites_48
+    21300100: Sheet Sprites_49
+    21300102: Sheet Sprites_50
+    21300104: Sheet Sprites_51
+    21300106: Sheet Sprites_52
+    21300108: Sheet Sprites_53
+    21300110: Sheet Sprites_54
+    21300112: Sheet Sprites_55
+    21300114: Sheet Sprites_56
+    21300116: Sheet Sprites_57
+    21300118: Sheet Sprites_58
+    21300120: Sheet Sprites_59
+    21300122: Sheet Sprites_60
+    21300124: Sheet Sprites_61
+    21300126: Sheet Sprites_62
+    21300128: Sheet Sprites_63
+    21300130: Sheet Sprites_64
+    21300132: Sheet Sprites_65
+    21300134: Sheet Sprites_66
+    21300136: Sheet Sprites_67
+    21300138: Sheet Sprites_68
+    21300140: Sheet Sprites_69
+    21300142: Sheet Sprites_70
+    21300144: Sheet Sprites_71
+    21300146: Sheet Sprites_72
+    21300148: Sheet Sprites_73
+    21300150: Sheet Sprites_74
+    21300152: Sheet Sprites_75
+    21300154: Sheet Sprites_76
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Sheet Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 258
+        width: 71
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 269
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 281
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 281
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 281
+        width: 27
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 281
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 286
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 318
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 317
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 318
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 317
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 318
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_12
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 317
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_13
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 288
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_14
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 288
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_15
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 288
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_16
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 288
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_17
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 287
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_18
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 288
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_19
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 256
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_20
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 256
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_21
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 203
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_22
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 210
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_23
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 209
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_24
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 210
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_25
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 209
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_26
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 210
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_27
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 209
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_28
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 210
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_29
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 209
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_30
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 224
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_31
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 224
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_32
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 224
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_33
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 222
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_34
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 223
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_35
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 224
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_36
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 167
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_37
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 165
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_38
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 164
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_39
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 164
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_40
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 163
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_41
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 165
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_42
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 164
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_43
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 164
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_44
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 164
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_45
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 189
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_46
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 191
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_47
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 155
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_48
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 154
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_49
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 157
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_50
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 106
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_51
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 108
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_52
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 107
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_53
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 107
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_54
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 111
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_55
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 109
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_56
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 13
+        width: 132
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_57
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 100
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_58
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 106
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_59
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 124
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_60
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 78
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_61
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 79
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_62
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 76
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_63
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 75
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_64
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 43
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_65
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 51
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_66
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 45
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_67
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 45
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_68
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 55
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_69
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 55
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_70
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 55
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_71
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 14
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_72
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 12
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_73
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 12
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_74
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 14
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_75
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 15
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet Sprites_76
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 17
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
